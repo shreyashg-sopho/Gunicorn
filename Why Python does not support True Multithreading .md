@@ -1,12 +1,12 @@
 # Can Multiple Threads in a Single Process Be Executed in Parallel on Multiple Cores?
 
-Yes, **multiple threads** in a single process can be executed **in parallel on multiple cores**, but whether this actually happens depends on a few factors, particularly the **Global Interpreter Lock (GIL)** in languages like **Python**. Let's break this down:
+Yes, **multiple threads** in a single process can be executed **in parallel on multiple cores**, but whether this actually happens depends on a few factors, particularly the **Global Interpreter Lock (GIL)** in languages like **Python**. 
 
 ## 1. In General (Non-Python Environments)
 In languages like **Java**, **C++**, **Go**, and **Rust**, **multiple threads** can indeed run in parallel across multiple CPU cores. Here's how it works:
 
 - **Threads** are lightweight units of execution within a process, and a **process** can have multiple threads running concurrently.
-- If your system has **multiple cores**, an operating system (OS) with proper thread management can assign different threads to different cores.
+- If a system has **multiple cores**, an operating system (OS) with proper thread management can assign different threads to different cores.
 - This allows true **parallelism**: multiple threads in the same process can run on different cores simultaneously. For example, on a quad-core machine, you can have up to 4 threads running at the same time, assuming no other system constraints.
 
 ## 2. Python and the Global Interpreter Lock (GIL)
