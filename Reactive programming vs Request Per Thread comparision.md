@@ -1,4 +1,4 @@
-'''python
+```python
 #!/usr/bin/env python3
 from dataclasses import dataclass
 from enum import Enum
@@ -347,7 +347,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-'''
+```
 
 
 Commands to run : 
