@@ -41,7 +41,10 @@ The **Banking Regulation Act, 1949** governs banking companies in India. It evol
 
 ## Part II: Sections 6 to 36AJ
 
-### Section 6: Permissible Business of Banks
+### Section 6: Permissible Business of Banks 
+(Just read this, yaad nahi karna isko.
+Isse accha ye yaad kar le ki banks kya nahi kar sakte!! (next section mei hai))
+
 
 Banks may also engage in:
 
