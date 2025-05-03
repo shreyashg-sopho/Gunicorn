@@ -83,7 +83,7 @@ graph TD
 - **4 Directors** (one from each Local Board – Section 9)
 - **10 Directors** (from various fields)
 - **2 Government officials** (nominated, per 2012 amendment)
-- Term: **up to 5 years**, eligible for reappointment.
+- Term for Governer and Deputy Governer): **up to 5 years**, eligible for reappointment.
 
 ```mermaid
 graph TD
