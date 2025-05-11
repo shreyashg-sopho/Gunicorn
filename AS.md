@@ -45,7 +45,6 @@ AS 23 – Investment in Associates<br>
 AS 24 – Discontinuing Operations<br>
 AS 25 – Interim Reporting<br>
 AS 26 – Intangible Assets<br>
-
 AS 27 – Joint Ventures<br>
 AS 28 – Impairment of Assets<br>
 AS 29 – Provisions, Contingent Liabilities & Assets<br>
