@@ -39,7 +39,7 @@ AS 21 – Consolidated Financial Statements<br>
  "Shri Raja , Ram Prasad (bahut bade admit admi the jo) , Leases, EPS, CFS" 
 ```
 
-💸 Advanced Financials & Tax (AS 22–26)
+## Advanced Financials & Tax (AS 22–26)
 AS 22 – Tax on Income<br>
 AS 23 – Investment in Associates<br>
 AS 24 – Discontinuing Operations<br>
