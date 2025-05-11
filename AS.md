@@ -49,7 +49,7 @@ AS 27 – Joint Ventures<br>
 AS 28 – Impairment of Assets<br>
 AS 29 – Provisions, Contingent Liabilities & Assets<br>
 ```
-"TIme Associates - we DO Interim Reports to Intangible Assests & JIA-PCLA" 
+"TIme Associates - we Discontinued-Operations on Interim Reports, Intangible Assests & JIA-PCLA" 
 ```
 
 Conclusion : 
